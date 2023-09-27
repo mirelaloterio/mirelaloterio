@@ -6,7 +6,7 @@ Meu nome é Mirela
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilio esse espaço para minha organiação e compartilhamento dos meus projetos desenvolvidos
 
-### Voce pode entrar em contado comigo 📫
+### Voce pode entrar em contato comigo 📫
 
 mirela.loterio@escola.pr.gov.br
 
